@@ -23,7 +23,7 @@ Este proyecto corresponde a la asignatura **Desarrollo de Software 2**, y busca 
 ---
 
 ## 📌 Alcance Actual  
-**Primera entrega (Clase ~9):**  
+**Primera entrega (Clase ~9/14 de Octubre 2025):**  
 - Análisis, levantamiento de requerimientos y diseño (50%)  
   - Diagrama de casos de uso y descripciones  
   - Diagrama de clases / flujo de datos  
