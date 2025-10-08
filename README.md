@@ -15,10 +15,10 @@ Este proyecto corresponde a la asignatura **Desarrollo de Software 2**, y busca 
 ---
 
 ## 👨‍👩‍👧‍👦 Equipo de Trabajo  
-- **Angie Stefany Herrera**
-- **Jorge Iván Jaramillo** 
-- **Jorge Luis Toro**  
-- **José Fabián Ortiz** 
+- **Angie Stefany Herrera** (Base de Datos)
+- **Jorge Iván Jaramillo** (BackEnd) 
+- **Jorge Luis Toro**  (Backend)
+- **José Fabián Ortiz**  (FrontEnd y Encargado tablero Kanban)
 
 ---
 
