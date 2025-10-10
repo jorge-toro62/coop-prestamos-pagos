@@ -91,6 +91,4 @@ Asegúrate de tener MySQL o MariaDB instalado y corriendo.
 
 Dependencia clave: mysqlclient incluida en requirements.txt.
 
-No subas .venv/, node_modules/ ni .env al repositorio.
-
 Para despliegue, se recomienda usar Render (backend) y Netlify (frontend).
