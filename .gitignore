@@ -1,28 +1,42 @@
-# Python
-.venv/
-venv/
-**/__pycache__/
+# ===============================
+# 🐍 Python / Django (backend)
+# ===============================
+__pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 *.sqlite3
+*.db
 .env
-
-# Node (frontend)
-frontend/coop-frontend/node_modules/
-frontend/coop-frontend/dist/
-
-# VSCode / SO
-.vscode/
-.DS_Store
-Thumbs.db
-
-# Ignora entornos y node
 .venv/
 venv/
-**/__pycache__/
-*.py[cod]
-*.sqlite3
-.env
-frontend/coop-frontend/node_modules/
-frontend/coop-frontend/dist/
+media/
+staticfiles/
+migrations/__pycache__/
+
+# ===============================
+# ⚛️ Node / React / Vite (frontend)
+# ===============================
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.vite/
+
+# ===============================
+# ⚙️ Entorno de desarrollo
+# ===============================
+entorno-desarrollo/.env
+entorno-desarrollo/*.log
+entorno-desarrollo/__pycache__/
+entorno-desarrollo/venv/
+entorno-desarrollo/.venv/
+entorno-desarrollo/scripts/__pycache__/
+
+# ===============================
+# 💻 IDEs y sistema operativo
+# ===============================
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
