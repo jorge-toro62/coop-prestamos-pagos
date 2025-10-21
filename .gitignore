@@ -40,3 +40,4 @@ entorno-desarrollo/scripts/__pycache__/
 *.log
 .DS_Store
 Thumbs.db
+*.crt
